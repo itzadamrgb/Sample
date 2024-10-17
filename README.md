@@ -7,7 +7,46 @@ I am a recent graduate with a strong passion for technology and a commitment to 
 #
 My journey in computer science has ignited a deep passion for cybersecurity and I am eager to transition into this dynamic field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
 
-# Skills
+# Skills 🛠
+<div>
+  <img src="https://img.shields.io/badge/Information%20Security-5C8DBB?style=for-the-badge&logo=security&logoColor=white" alt="Information Security" />
+  
+  <img src="https://img.shields.io/badge/Network%20Security-1BA0E8?style=for-the-badge&logo=cisco&logoColor=white" alt="Network Security" />
+
+  <img src="https://img.shields.io/badge/Incident%20Response-FC8C40?style=for-the-badge&logo=incident-response&logoColor=white" alt="Incident Response" />
+
+  <img src="https://img.shields.io/badge/Malware%20Analysis-0099CC?style=for-the-badge&logo=malwarebytes&logoColor=white" alt="Malware Analysis" />
+
+  <img src="https://img.shields.io/badge/SIEM-FF6600?style=for-the-badge&logo=ibm&logoColor=white" alt="SIEM" />
+
+  <img src="https://img.shields.io/badge/SOAR-DA4932?style=for-the-badge&logo=dynatrace&logoColor=white" alt="SOAR" />
+
+  <img src="https://img.shields.io/badge/Threat%20Intelligence-FF7800?style=for-the-badge&logo=threat-intelligence&logoColor=white" alt="Threat Intelligence" />
+
+  <img src="https://img.shields.io/badge/IDS-0072C6?style=for-the-badge&logo=cisco&logoColor=white" alt="IDS" />
+
+  <img src="https://img.shields.io/badge/IPS-0072C6?style=for-the-badge&logo=cisco&logoColor=white" alt="IPS" />
+
+  <img src="https://img.shields.io/badge/Log%20Analysis-005D8C?style=for-the-badge&logo=splunk&logoColor=white" alt="Log Analysis" />
+
+  <img src="https://img.shields.io/badge/Vulnerability%20Management-4E5B31?style=for-the-badge&logo=tenable&logoColor=white" alt="Vulnerability Management" />
+
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
+
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+
+  <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Bash" />
+
+  <img src="https://img.shields.io/badge/C%2FC%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C/C++" />
+
+  <img src="https://img.shields.io/badge/Communication-0072C6?style=for-the-badge&logo=communication&logoColor=white" alt="Communication" />
+
+  <img src="https://img.shields.io/badge/Critical%20Thinking-FFCC00?style=for-the-badge&logo=critical-thinking&logoColor=black" alt="Critical Thinking" />
+</div>
+
+
+
+# Projects
 
 | Projects                                         | Links         |
 |-----------------------------------------------|----------------------------|
@@ -19,7 +58,7 @@ My journey in computer science has ignited a deep passion for cybersecurity and 
 | Scripting and Automation for Threat Mitigation | SOC Automation Lab|
 
 
-## Tools
+# Tools
 
 ### Network
 <div>
