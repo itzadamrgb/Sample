@@ -9,9 +9,9 @@ My journey in computer science has ignited a deep passion for cybersecurity and 
 
 # Skills
 
-| Skill                                         | Associated Project         |
+| Projects                                         | Links         |
 |-----------------------------------------------|----------------------------|
-| SIEM Implementation and Log Analysis          | <a href="https://google.com">Detection Lab</a>|
+| Setting Up Active Directory and Building a Domain Controller in a Virtual Environment | <a href="https://google.com](https://github.com/syedme18/Setting-Up-Active-Directory-and-Building-a-Domain-Controller-in-a-Virtual-Environment">Setting & Building Lab</a>|
 | Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
 | Security Automation with Shuffle SOAR         | SOC Automation Lab|
 | Incident Response Planning and Execution      | SOC Automation Lab|
