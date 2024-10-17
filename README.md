@@ -41,6 +41,13 @@ My journey in computer science has ignited a deep passion for cybersecurity and 
     <img src="https://img.shields.io/badge/-Elastic-005571?&style=for-the-badge&logo=Elastic&logoColor=white" />
 </div>
 
+### Offensive Security
+<div>
+    <img src="https://img.shields.io/badge/-Metasploit-2A2F39?&style=for-the-badge&logo=Metasploit&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Nmap-4682B4?&style=for-the-badge&logo=Nmap&logoColor=white" />
+    <img src="https://img.shields.io/badge/-BeEF-F77400?&style=for-the-badge&logoColor=white" />
+</div>
+
 ## Certifications
 <div>
   <a href="https://www.credly.com/go/qvCgg9F8"><img src="https://img.shields.io/badge/Google%20Cybersecurity-blue?style=for-the-badge&logo=google&logoColor=white" /></a>
