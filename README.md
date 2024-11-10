@@ -36,10 +36,6 @@ My journey in computer science has ignited a deep passion for cybersecurity and 
 |-----------------------------------------------|----------------------------|
 | Malware Analysis Lab Setup | <a href="https://github.com/syedme18/Malware-Analysis-Lab">Mal Testing Lab</a>|
 | Active Directory Setup In VM | <a href="https://github.com/syedme18/Setting-Up-Active-Directory-and-Building-a-Domain-Controller-in-a-Virtual-Environment">Setting & Building Lab</a>|
-| Security Automation with Shuffle SOAR         | SOC Automation Lab|
-| Incident Response Planning and Execution      | SOC Automation Lab|
-| Case Management with TheHive                  | SOC Automation Lab|
-| Scripting and Automation for Threat Mitigation | SOC Automation Lab|
 
 
 # Tools
