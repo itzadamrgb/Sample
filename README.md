@@ -3,7 +3,7 @@
     <img src="https://img.shields.io/badge/-LinkedIn-0072b1?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
-I am a recent graduate with a strong passion for technology and a commitment to addressing challenging problems.
+I am a recent graduate with a strong passion for technology and a commitment to address challenging problems.
 #
 My journey in computer science has ignited a deep passion for cybersecurity and I am eager to transition into this dynamic field, specifically aiming to join in Defensive Security.
 
