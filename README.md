@@ -50,8 +50,8 @@ My journey in computer science has ignited a deep passion for cybersecurity and 
 
 | Projects                                         | Links         |
 |-----------------------------------------------|----------------------------|
-| Setting Up Active Directory and Building a Domain Controller in a Virtual Environment | <a href="https://github.com/syedme18/Setting-Up-Active-Directory-and-Building-a-Domain-Controller-in-a-Virtual-Environment">Setting & Building Lab</a>|
-| Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
+| Active Directory Setup In VM | <a href="https://github.com/syedme18/Setting-Up-Active-Directory-and-Building-a-Domain-Controller-in-a-Virtual-Environment">Setting & Building Lab</a>|
+| Active Directory Setup In VM | <a href="https://github.com/syedme18/Malware-Analysis-Lab">Mal Testing Lab</a>|
 | Security Automation with Shuffle SOAR         | SOC Automation Lab|
 | Incident Response Planning and Execution      | SOC Automation Lab|
 | Case Management with TheHive                  | SOC Automation Lab|
