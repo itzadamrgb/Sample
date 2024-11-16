@@ -43,45 +43,48 @@ My journey in computer science has ignited a deep passion for cybersecurity and 
 
 ### Network
 <div>
-    <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Suricata-EF3B2D?&style=for-the-badge&logo=Suricata&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Zeek-777BB4?&style=for-the-badge&logo=Zeek&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Fiddler-9C1A1A?&style=for-the-badge&logo=Fiddler&logoColor=white" />
+    <a href="#" style="pointer-events: none;"><img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" /></a>
+    <a href="#" style="pointer-events: none;"><img src="https://img.shields.io/badge/-Suricata-EF3B2D?&style=for-the-badge&logo=Suricata&logoColor=white" /></a>
+    <a href="#" style="pointer-events: none;"><img src="https://img.shields.io/badge/-Zeek-777BB4?&style=for-the-badge&logo=Zeek&logoColor=white" /></a>
+    <a href="#" style="pointer-events: none;"><img src="https://img.shields.io/badge/-Fiddler-9C1A1A?&style=for-the-badge&logo=Fiddler&logoColor=white" /></a>
 </div>
 
 ### Endpoint
 <div>
-    <img src="https://img.shields.io/badge/-Microsoft_Defender_for_Endpoint-00A4EF?&style=for-the-badge&logo=Microsoft&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Velociraptor-4B275F?&style=for-the-badge&logo=Velociraptor&logoColor=white" />
+    <a href="#" style="pointer-events: none;"><img src="https://img.shields.io/badge/-Microsoft_Defender_for_Endpoint-00A4EF?&style=for-the-badge&logo=Microsoft&logoColor=white" /></a>
+    <a href="#" style="pointer-events: none;"><img src="https://img.shields.io/badge/-Velociraptor-4B275F?&style=for-the-badge&logo=Velociraptor&logoColor=white" /></a>
 </div>
 
 ### SIEM
 <div>
-    <img src="https://img.shields.io/badge/-Microsoft_Sentinel-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Elastic-005571?&style=for-the-badge&logo=Elastic&logoColor=white" />
+    <a href="#" style="pointer-events: none;"><img src="https://img.shields.io/badge/-Microsoft_Sentinel-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" /></a>
+    <a href="#" style="pointer-events: none;"><img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" /></a>
+    <a href="#" style="pointer-events: none;"><img src="https://img.shields.io/badge/-Elastic-005571?&style=for-the-badge&logo=Elastic&logoColor=white" /></a>
 </div>
 
 ### Offensive Security
 <div>
-    <img src="https://img.shields.io/badge/-Metasploit-2A2F39?&style=for-the-badge&logo=Metasploit&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Nmap-4682B4?&style=for-the-badge&logo=Nmap&logoColor=white" />
-    <img src="https://img.shields.io/badge/-BeEF-F77400?&style=for-the-badge&logoColor=white" />
+    <a href="#" style="pointer-events: none;"><img src="https://img.shields.io/badge/-Metasploit-2A2F39?&style=for-the-badge&logo=Metasploit&logoColor=white" /></a>
+    <a href="#" style="pointer-events: none;"><img src="https://img.shields.io/badge/-Nmap-4682B4?&style=for-the-badge&logo=Nmap&logoColor=white" /></a>
+    <a href="#" style="pointer-events: none;"><img src="https://img.shields.io/badge/-BeEF-F77400?&style=for-the-badge&logoColor=white" /></a>
 </div>
 
 ### Malware Analysis
 <div>
-    <img src="https://img.shields.io/badge/-REMnux-2A2F39?&style=for-the-badge&logoColor=white" />
-    <img src="https://img.shields.io/badge/-ProcMon-4682B4?&style=for-the-badge&logoColor=white" />
-    <img src="https://img.shields.io/badge/-PEStudio-FFA500?&style=for-the-badge&logoColor=white" />
-    <img src="https://img.shields.io/badge/-HxD-FF4500?&style=for-the-badge&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Sysinternals_Suite-008080?&style=for-the-badge&logoColor=white" />
-    <img src="https://img.shields.io/badge/-ANY.RUN-DC143C?&style=for-the-badge&logoColor=white" />
-    <img src="https://img.shields.io/badge/-VirusTotal-4E9A06?&style=for-the-badge&logoColor=white" />
-    <img src="https://img.shields.io/badge/-FlareVM-6B8E23?&style=for-the-badge&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Regshot-FFD700?&style=for-the-badge&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Process_Hacker-00CED1?&style=for-the-badge&logoColor=white" />
+    <a href="#" style="pointer-events: none;"><img src="https://img.shields.io/badge/-REMnux-2A2F39?&style=for-the-badge&logoColor=white" /></a>
+    <a href="#" style="pointer-events: none;"><img src="https://img.shields.io/badge/-ProcMon-4682B4?&style=for-the-badge&logoColor=white" /></a>
+    <a href="#" style="pointer-events: none;"><img src="https://img.shields.io/badge/-PEStudio-FFA500?&style=for-the-badge&logoColor=white" /></a>
+    <a href="#" style="pointer-events: none;"><img src="https://img.shields.io/badge/-HxD-FF4500?&style=for-the-badge&logoColor=white" /></a>
+    <a href="#" style="pointer-events: none;"><img src="https://img.shields.io/badge/-Sysinternals_Suite-008080?&style=for-the-badge&logoColor=white" /></a>
+    <a href="#" style="pointer-events: none;"><img src="https://img.shields.io/badge/-ANY.RUN-DC143C?&style=for-the-badge&logoColor=white" /></a>
+    <a href="#" style="pointer-events: none;"><img src="https://img.shields.io/badge/-VirusTotal-4E9A06?&style=for-the-badge&logoColor=white" /></a>
+    <a href="#" style="pointer-events: none;"><img src="https://img.shields.io/badge/-FlareVM-6B8E23?&style=for-the-badge&logoColor=white" /></a>
+    <a href="#" style="pointer-events: none;"><img src="https://img.shields.io/badge/-Regshot-FFD700?&style=for-the-badge&logoColor=white" /></a>
+    <a href="#" style="pointer-events: none;"><img src="https://img.shields.io/badge/-Process_Hacker-00CED1?&style=for-the-badge&logoColor=white" /></a>
 </div>
+ 
+
+
 
 
 ## Certifications
