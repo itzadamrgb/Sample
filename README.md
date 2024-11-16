@@ -34,8 +34,9 @@ My journey in computer science has ignited a deep passion for cybersecurity and 
 
 | Projects                                         | Links         |
 |-----------------------------------------------|----------------------------|
-| Malware Analysis Lab Setup | <a href="https://github.com/syedme18/Malware-Analysis-Lab">Mal Testing Lab</a>|
-| Active Directory Setup In VM | <a href="https://github.com/syedme18/Setting-Up-Active-Directory-and-Building-a-Domain-Controller-in-a-Virtual-Environment">Setting & Building Lab</a>|
+| Malware Analysis Lab Setup | <a href="https://github.com/syedme18/Malware-Analysis-Lab">View Project</a>|
+| Active Directory Setup In VM | <a href="https://github.com/syedme18/Setting-Up-Active-Directory-and-Building-a-Domain-Controller-in-a-Virtual-Environment">View Project</a>|
+| Managing OU,Users, and Computers in Active Directory | <a href="https://github.com/syedme18/Managing-OU-Users-and-Computers-in-Active-Directory">View Project</a>|
 
 
 # Tools
@@ -45,6 +46,7 @@ My journey in computer science has ignited a deep passion for cybersecurity and 
     <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
     <img src="https://img.shields.io/badge/-Suricata-EF3B2D?&style=for-the-badge&logo=Suricata&logoColor=white" />
     <img src="https://img.shields.io/badge/-Zeek-777BB4?&style=for-the-badge&logo=Zeek&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Fiddler-9C1A1A?&style=for-the-badge&logo=Fiddler&logoColor=white" />
 </div>
 
 ### Endpoint
@@ -67,17 +69,38 @@ My journey in computer science has ignited a deep passion for cybersecurity and 
     <img src="https://img.shields.io/badge/-BeEF-F77400?&style=for-the-badge&logoColor=white" />
 </div>
 
+### Malware Analysis
+<div>
+    <img src="https://img.shields.io/badge/-REMnux-2A2F39?&style=for-the-badge&logoColor=white" />
+    <img src="https://img.shields.io/badge/-ProcMon-4682B4?&style=for-the-badge&logoColor=white" />
+    <img src="https://img.shields.io/badge/-PEStudio-FFA500?&style=for-the-badge&logoColor=white" />
+    <img src="https://img.shields.io/badge/-HxD-FF4500?&style=for-the-badge&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Sysinternals_Suite-008080?&style=for-the-badge&logoColor=white" />
+    <img src="https://img.shields.io/badge/-ANY.RUN-DC143C?&style=for-the-badge&logoColor=white" />
+    <img src="https://img.shields.io/badge/-VirusTotal-4E9A06?&style=for-the-badge&logoColor=white" />
+    <img src="https://img.shields.io/badge/-FlareVM-6B8E23?&style=for-the-badge&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Regshot-FFD700?&style=for-the-badge&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Process_Hacker-00CED1?&style=for-the-badge&logoColor=white" />
+</div>
+
+
 ## Certifications
 <div>
-  <a href="https://www.credly.com/go/qvCgg9F8"><img src="https://img.shields.io/badge/Google%20Cybersecurity-blue?style=for-the-badge&logo=google&logoColor=white" /></a>
-  <a href="https://codered.eccouncil.org/certificate/79d5ee0c-a369-4127-a388-d70fc1d1440e"><img src="https://img.shields.io/badge/Ethical%20Hacking%20Essentials%20by%20EcCouncil-FF0000?style=for-the-badge&logo=eccouncil&logoColor=white" /></a>
-  <img src="https://img.shields.io/badge/-Network%20Fundamentals-white?&style=for-the-badge&logo=Cybrary&logoColor=white" />
-  <img src="https://img.shields.io/badge/-MySQL-0000FF?&style=for-the-badge&logo=mysql&logoColor=white" />
-   <a href="https://www.udemy.com/certificate/UC-2bcf47b7-8d2f-436e-b2d7-8d96cbef0afc/"><img src="https://img.shields.io/badge/Ethical%20Hacking%20From%20Scratch-purple?style=for-the-badge&logo=udemy&logoColor=white" /></a>
-
-
-
-  
-
-
+<a href="https://app.letsdefend.io/certificate/show/3769450f-f745-48e3-911d-08cb10e49593"><img src="https://img.shields.io/badge/SOC%20Analyst%20Learning%20Path-003366?style=for-the-badge&logo=letsdefend&logoColor=white" />
+</a>
+<a href="https://www.credly.com/go/qvCgg9F8"><img src="https://img.shields.io/badge/Google%20Cybersecurity%20Professional%20Certificate-blue?style=for-the-badge&logo=google&logoColor=white" />
+</a>
+<a href="https://codered.eccouncil.org/certificate/79d5ee0c-a369-4127-a388-d70fc1d1440e">
+      <img src="https://img.shields.io/badge/Ethical%20Hacking%20Essentials%20by%20EcCouncil-FF0000?style=for-the-badge&logo=eccouncil&logoColor=white" />
+</a>
+<a href="https://coursera.org/verify/080EOF3WVZNK">
+  <img src="https://img.shields.io/badge/Fundamentals%20of%20Network%20Communication-003366?style=for-the-badge&logo=coursera&logoColor=white" />
+</a> 
+<a href="https://coursera.org/verify/MBMY7FDBD409">
+  <img src="https://img.shields.io/badge/Hands%20on%20Introduction%20to%20Linux%20Command%20and%20Shell-0060A1?style=for-the-badge&logo=ibm&logoColor=white&color=0060A1" />
+</a>
+<img src="https://img.shields.io/badge/-Network%20Fundamentals-white?&style=for-the-badge&logo=Cybrary&logoColor=white" />
+<img src="https://img.shields.io/badge/-MySQL-0000FF?&style=for-the-badge&logo=mysql&logoColor=white" />
+<a href="https://www.udemy.com/certificate/UC-2bcf47b7-8d2f-436e-b2d7-8d96cbef0afc/"><img src="https://img.shields.io/badge/Ethical%20Hacking%20From%20Scratch-purple?style=for-the-badge&logo=udemy&logoColor=white" />
+</a>  
 </div>
