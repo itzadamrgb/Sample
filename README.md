@@ -36,7 +36,6 @@ My journey in computer science has ignited a deep passion for cybersecurity and 
 |-----------------------------------------------|----------------------------|
 | Malware Analysis Lab Setup | <a href="https://github.com/syedme18/Malware-Analysis-Lab">View Project</a>|
 | Active Directory Setup In VM | <a href="https://github.com/syedme18/Setting-Up-Active-Directory-and-Building-a-Domain-Controller-in-a-Virtual-Environment">View Project</a>|
-| Managing OU,Users, and Computers in Active Directory | <a href="https://github.com/syedme18/Managing-OU-Users-and-Computers-in-Active-Directory">View Project</a>|
 
 
 # Tools
