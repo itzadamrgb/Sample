@@ -34,7 +34,7 @@ My journey in computer science has ignited a deep passion for cybersecurity and 
 
 | Projects                                         | Links         |
 |-----------------------------------------------|----------------------------|
-|Splunk Enterprise Setup and Data Ingestion Guide| <a href="https://github.com/syedme18/Splunk-Enterprise-Setup-and-Data-Ingestion-Guide">View Project</a>|
+|Splunk Enterprise Setup and Data Ingestion| <a href="https://github.com/syedme18/Splunk-Enterprise-Setup-and-Data-Ingestion-Guide">View Project</a>|
 | Wazuh Installation and agent deployment lab | <a href="https://github.com/syedme18/Wazuh-Installation-and-Agent-deployment-lab">View Project</a>|
 | Malware Analysis Lab Setup | <a href="https://github.com/syedme18/Malware-Analysis-Lab">View Project</a>|
 | Active Directory Setup and Management In VM | <a href="https://github.com/syedme18/Setting-Up-Active-Directory-and-Building-a-Domain-Controller-in-a-Virtual-Environment">View Project</a>|
