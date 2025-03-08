@@ -4,7 +4,6 @@
 </a>
 
 I am a recent graduate with a strong passion for technology and a commitment to address challenging problems.
-#
 My journey in computer science has ignited a deep passion for cybersecurity and I am eager to transition into this dynamic field, specifically aiming to join in Defensive Security.
 
 # Skills 🛠
@@ -15,7 +14,7 @@ My journey in computer science has ignited a deep passion for cybersecurity and 
   <a href="#"><img src="https://img.shields.io/badge/Malware%20Analysis-0099CC?style=for-the-badge&logo=malwarebytes&logoColor=white" style="pointer-events: none;" /></a>
   <a href="#"><img src="https://img.shields.io/badge/SIEM-FF6600?style=for-the-badge&logo=ibm&logoColor=white" style="pointer-events: none;" /></a>
   <a href="#"><img src="https://img.shields.io/badge/SOAR-DA4932?style=for-the-badge&logo=dynatrace&logoColor=white" style="pointer-events: none;" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/Threat%20Intelligence-FF7800?style=for-the-badge&logo=threat-intelligence&logoColor=white" style="pointer-events: none;"
+  <a href="#"><img src="https://img.shields.io/badge/Threat%20Intelligence-FF7800?style=for-the-badge&logo=threat-intelligence&logoColor=white" style="pointer-events: none;" /></a>
   <a href="#"><img src="https://img.shields.io/badge/IDS-0072C6?style=for-the-badge&logo=cisco&logoColor=white" style="pointer-events: none;" /></a>
   <a href="#"><img src="https://img.shields.io/badge/IPS-0072C6?style=for-the-badge&logo=cisco&logoColor=white" style="pointer-events: none;" /></a>
   <a href="#"><img src="https://img.shields.io/badge/Log%20Analysis-005D8C?style=for-the-badge&logo=splunk&logoColor=white" style="pointer-events: none;" /></a>
@@ -57,9 +56,7 @@ My journey in computer science has ignited a deep passion for cybersecurity and 
 ### SIEM
 <div>
     <a href="#" style="pointer-events: none;"><img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" /></a>
-    <a href="#" style="pointer-events: none;"><img src="https://img.shields.io/badge/-Google_Chronicle-4285F4?&style=for-the-badge&logo=Google&logoColor=white" /></a>
     <a href="#" style="pointer-events: none;"><img src="https://img.shields.io/badge/-Wazuh-00008B?&style=for-the-badge&logo=Wazuh&logoColor=white" /></a>
-
 </div>
 
 ### Offensive Security
