@@ -1,4 +1,4 @@
-# Hello, I'm Hassan
+# Hi, I'm Hassan
 <a href="https://www.linkedin.com/in/syed-mohd-hassan-0b46a8248/">
     <img src="https://img.shields.io/badge/-LinkedIn-0072b1?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
