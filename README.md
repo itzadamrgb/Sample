@@ -33,6 +33,7 @@ My journey in computer science has ignited a deep passion for cybersecurity and 
 
 | Projects                                         | Links         |
 |-----------------------------------------------|----------------------------|
+|SOC Automation Project| <a href="https://github.com/syedme18/SOC-Automation-Project">View Project</a>|
 |Splunk Enterprise Setup and Data Ingestion| <a href="https://github.com/syedme18/Splunk-Enterprise-Setup-and-Data-Ingestion-Guide">View Project</a>|
 | Wazuh Installation and agent deployment lab | <a href="https://github.com/syedme18/Wazuh-Installation-and-Agent-deployment-lab">View Project</a>|
 | Malware Analysis Lab Setup | <a href="https://github.com/syedme18/Malware-Analysis-Lab">View Project</a>|
