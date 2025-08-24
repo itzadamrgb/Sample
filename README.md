@@ -1,4 +1,4 @@
-# Hi, I'm Hassan
+# Hi, I'm Zubair
 <a href="https://www.linkedin.com/in/mdzubair2004/">
     <img src="https://img.shields.io/badge/-LinkedIn-0072b1?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
