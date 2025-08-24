@@ -100,7 +100,7 @@ My journey in computer science has ignited a deep passion for cybersecurity and 
 <a href="https://coursera.org/verify/MBMY7FDBD409">
   <img src="https://img.shields.io/badge/Hands%20on%20Introduction%20to%20Linux%20Command%20and%20Shell-0060A1?style=for-the-badge&logo=ibm&logoColor=white&color=0060A1" />
 </a>
-<img src="https://img.shields.io/badge/-Network%20Fundamentals-white?&style=for-the-badge&logo=Cybrary&logoColor=white" />
+<img src="https://img.shields.io/badge/-Ethical%20Hacking-white?&style=for-the-badge&logo=Cybrary&logoColor=white" />
 <img src="https://img.shields.io/badge/-MySQL-0000FF?&style=for-the-badge&logo=mysql&logoColor=white" />
 <a href="https://www.udemy.com/certificate/UC-2bcf47b7-8d2f-436e-b2d7-8d96cbef0afc/"><img src="https://img.shields.io/badge/Ethical%20Hacking%20From%20Scratch-purple?style=for-the-badge&logo=udemy&logoColor=white" />
 </a>  
