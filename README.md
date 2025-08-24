@@ -89,17 +89,7 @@ My journey in computer science has ignited a deep passion for cybersecurity and 
 <div>
 <a href="https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-DIFC1QIITO.pdf"><img src="https://img.shields.io/badge/Pre%20Security%20TRY Hackme%20-003366?style=for-the-badge&logo=letsdefend&logoColor=white" />
 </a>
-<a href="https://www.credly.com/go/qvCgg9F8"><img src="https://img.shields.io/badge/Ethical%20Hacking%20Begineer to Advanced%20?style=for-the-badge&logo=google&logoColor=white" />
-</a>
-<a href="https://codered.eccouncil.org/certificate/79d5ee0c-a369-4127-a388-d70fc1d1440e">
-      <img src="https://img.shields.io/badge/Ethical%20Hacking%20Essentials%20by%20EcCouncil-FF0000?style=for-the-badge&logo=eccouncil&logoColor=white" />
-</a>
-<a href="https://coursera.org/verify/080EOF3WVZNK">
-  <img src="https://img.shields.io/badge/Fundamentals%20of%20Network%20Communication-003366?style=for-the-badge&logo=coursera&logoColor=white" />
-</a> 
-<a href="https://coursera.org/verify/MBMY7FDBD409">
-  <img src="https://img.shields.io/badge/Hands%20on%20Introduction%20to%20Linux%20Command%20and%20Shell-0060A1?style=for-the-badge&logo=ibm&logoColor=white&color=0060A1" />
-</a>
+
 <img src="https://img.shields.io/badge/-Ethical%20Hacking-white?&style=for-the-badge&logo=Cybrary&logoColor=white" />
 <img src="https://img.shields.io/badge/-MySQL-0000FF?&style=for-the-badge&logo=mysql&logoColor=white" />
 <a href="https://cert.cyberverseacademy.com/certificate/CVAEH01MZ.pdf"><img src="https://img.shields.io/badge/Ethical%20Hacking%20From%20Scratch-purple?style=for-the-badge" />
