@@ -87,7 +87,7 @@ My journey in computer science has ignited a deep passion for cybersecurity and 
 
 ## Certifications
 <div>
-<a href="https://app.letsdefend.io/certificate/show/3769450f-f745-48e3-911d-08cb10e49593"><img src="https://img.shields.io/badge/SOC%20Analyst%20Learning%20Path-003366?style=for-the-badge&logo=letsdefend&logoColor=white" />
+<a href="https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-DIFC1QIITO.pdf"><img src="https://img.shields.io/badge/Pre%20Security%20TRY Hackme%20-003366?style=for-the-badge&logo=letsdefend&logoColor=white" />
 </a>
 <a href="https://www.credly.com/go/qvCgg9F8"><img src="https://img.shields.io/badge/Google%20Cybersecurity%20Professional%20Certificate-blue?style=for-the-badge&logo=google&logoColor=white" />
 </a>
