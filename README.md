@@ -90,8 +90,7 @@ My journey in computer science has ignited a deep passion for cybersecurity and 
 <a href="https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-DIFC1QIITO.pdf"><img src="https://img.shields.io/badge/Pre%20Security%20TRY Hackme%20-003366?style=for-the-badge&logo=letsdefend&logoColor=white" />
 </a>
 
-<img src="https://img.shields.io/badge/-Ethical%20Hacking-white?&style=for-the-badge&logo=Cybrary&logoColor=white" />
-<img src="https://img.shields.io/badge/-MySQL-0000FF?&style=for-the-badge&logo=mysql&logoColor=white" />
-<a href="https://cert.cyberverseacademy.com/certificate/CVAEH01MZ.pdf"><img src="https://img.shields.io/badge/Ethical%20Hacking%20From%20Scratch-purple?style=for-the-badge" />
+
+<a href="https://cert.cyberverseacademy.com/certificate/CVAEH01MZ.pdf"><img src="https://img.shields.io/badge/Ethical%20Hacking%20From%20Scratch-white?style=for-the-badge" />
 </a>  
 </div>
